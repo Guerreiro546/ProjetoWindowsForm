@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\bin\Debug\net10.0-windows\ProjetoAula.exe
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\bin\Debug\net10.0-windows\ProjetoAula.deps.json
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\bin\Debug\net10.0-windows\ProjetoAula.runtimeconfig.json
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\bin\Debug\net10.0-windows\ProjetoAula.dll
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\bin\Debug\net10.0-windows\ProjetoAula.pdb
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\obj\Debug\net10.0-windows\ProjetoAula.FormIMC.resources
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\obj\Debug\net10.0-windows\ProjetoAula.Properties.Resources.resources
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\obj\Debug\net10.0-windows\ProjetoAula.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\obj\Debug\net10.0-windows\ProjetoAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\obj\Debug\net10.0-windows\ProjetoAula.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\obj\Debug\net10.0-windows\ProjetoAula.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\obj\Debug\net10.0-windows\ProjetoAula.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\obj\Debug\net10.0-windows\ProjetoAula.dll
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\obj\Debug\net10.0-windows\refint\ProjetoAula.dll
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\obj\Debug\net10.0-windows\ProjetoAula.pdb
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\obj\Debug\net10.0-windows\ProjetoAula.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\ProjetoAula\ProjetoAula\obj\Debug\net10.0-windows\ref\ProjetoAula.dll
